@@ -1,0 +1,10 @@
+{
+	"header": {
+		"message-id": "0001",
+		"message-type": "oauth2 authorization response"
+	},
+	"payload": {
+		"code": "123412341234",
+		"state": "obtain authorization"
+	}
+}
