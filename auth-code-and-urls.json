@@ -1,0 +1,6 @@
+{
+	"encryptedAuthCode": "4a0a7abc-81a5-40b3-8b0a-c5e075453ede",
+	"getAuthTokenServiceUrl": "https://raw.githubusercontent.com/danum-teamibr/MobileFrameworkServerData/master/oauth2-token-response.json",
+	"getConfigServiceUrl": "",
+	"getAllFormsMetaSummaryUrl": "https://raw.githubusercontent.com/danum-teamibr/MobileFrameworkServerData/master/account-data-all-sets-meta.json"
+}
